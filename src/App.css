@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #17153B;
+}
+.primary{
+    background: #17153B;
+}
+.secondary{
+    background-color: #2E236C;
+}
+
+.tertiary{
+    background-color: #433D8B;
+}
+
+.quaternary{
+    background-color: #C8ACD6;
+}
